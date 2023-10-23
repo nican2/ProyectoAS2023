@@ -11,4 +11,5 @@ Características de las señales:
 - Tempograma
 - Ancho de banda espectral
 - ...?????
-  https://nbviewer.org/github/SPQR14/TEyMD_Mineria/blob/master/Proyecto/NB/Proyecto_final.ipynb
+
+https://nbviewer.org/github/SPQR14/TEyMD_Mineria/blob/master/Proyecto/NB/Proyecto_final.ipynb
