@@ -24,6 +24,8 @@ Características de las señales (https://medium.com/clasificaci%C3%B3n-de-m%C3%
 
 https://nbviewer.org/github/SPQR14/TEyMD_Mineria/blob/master/Proyecto/NB/Proyecto_final.ipynb
 
+https://www.kaggle.com/code/hamditarek/audio-data-analysis-using-librosa
+
 ## Notas de interés (para los participantes) [Luego esto se borrará]:
 
 José -> Reggae
