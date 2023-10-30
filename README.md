@@ -14,4 +14,5 @@ Características de las señales (https://medium.com/clasificaci%C3%B3n-de-m%C3%
 
 https://nbviewer.org/github/SPQR14/TEyMD_Mineria/blob/master/Proyecto/NB/Proyecto_final.ipynb
 
+Nicolás -> Rock
 José -> Reggae
