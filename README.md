@@ -28,6 +28,12 @@ https://www.kaggle.com/code/hamditarek/audio-data-analysis-using-librosa
 
 ## Notas de interés (para los participantes) [Luego esto se borrará]:
 
-José -> Reggae
+José -> De Reggae, Opera, HipHop se han obtenido:
+- Tasa de cruces con cero
+- Centroide Espectral
+- Caída Espectral
+- Cepstrum de Frecuencia Mel
+- Frecuencia cromática
+- Tempograma
 
 Nicolás -> Rock
