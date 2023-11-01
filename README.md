@@ -35,5 +35,5 @@ José -> De Reggae, Opera, HipHop se han obtenido:
 - Cepstrum de Frecuencia Mel
 - Frecuencia cromática
 - Tempograma
-
+El programa "Extrae_26parametros" es un código genérico que obtiene parámetros de 1 único clip y los almacena en un dataframe.
 Nicolás -> Rock
