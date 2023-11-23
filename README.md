@@ -2,38 +2,14 @@
 
 ## Descripción
 
-Los participantes pertenecen al grupo A mostrado en Aula Virtual (Luis, Nicolás, Diego, Javier, José).
+Los participantes pertenecen al grupo A mostrado en Aula Virtual: Nicolás Camañes Antolín, Javier Hinarejos Albero, Diego Lacomba Fañanas, Jose Marquez Algaba, Luis Rioja Gallo.
 
 El proyecto consiste en el procesamiento de señales de audio en música. Más concretamente en realizar un estudio de análisis espectral y extracción de características en señales de un audio musical y obtener características básicas y alguna más compleja.
 
+En el presente proyecto se pretende el análisis de señales de audio en música, con el objetivo de aplicar y entender las técnicas de extracción de características en este tipo de señales así como la implementación de métodos de machine learning en Python para la clasificación del género musical de una señal de audio previamente habiendo realizado un entrenamiento con un dataset creado en este proyecto.
+
+
 ## Estado del proyecto
 
-Actualmente el proyecto está en desarrollo.
+Actualmente el proyecto ya llegado a su fin.
 
-## Enlaces de interés (para los participantes) [Luego esto se borrará]:
-
-Características de las señales (https://medium.com/clasificaci%C3%B3n-de-m%C3%BAsica-a-trav%C3%A9s-del-an%C3%A1lisis-de/clasificaci%C3%B3n-de-m%C3%BAsica-a-trav%C3%A9s-del-an%C3%A1lisis-de-se%C3%B1ales-de-audio-1da23481b47c) :
-- Tasa de cruces con cero
-- Centroide Espectral
-- Caída Espectral
-- Cepstrum de Frecuencia Mel
-- Frecuencia cromática
-- Tempograma
-- Ancho de banda espectral
-- ...?????
-
-https://nbviewer.org/github/SPQR14/TEyMD_Mineria/blob/master/Proyecto/NB/Proyecto_final.ipynb
-
-https://www.kaggle.com/code/hamditarek/audio-data-analysis-using-librosa
-
-## Notas de interés (para los participantes) [Luego esto se borrará]:
-
-José -> De Reggae, Opera, HipHop se han obtenido:
-- Tasa de cruces con cero
-- Centroide Espectral
-- Caída Espectral
-- Cepstrum de Frecuencia Mel
-- Frecuencia cromática
-- Tempograma
-El programa "Extrae_26parametros" es un código genérico que obtiene parámetros de 1 único clip y los almacena en un dataframe.
-Nicolás -> Rock
