@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Los participantes pertenecen al grupo A mostrado en Aula Virtual: Nicolás Camañes Antolín, Javier Hinarejos Albero, Diego Lacomba Fañanas, Jose Marquez Algaba, Luis Rioja Gallo.
+Los participantes pertenecen al grupo A mostrado en Aula Virtual de la asignatura de Análisis de Señales del Máster en Ciencia de Datos de la Universidad de Valéncia: Nicolás Camañes Antolín, Javier Hinarejos Albero, Diego Lacomba Fañanas, Jose Marquez Algaba, Luis Rioja Gallo.
 
 El proyecto consiste en el procesamiento de señales de audio en música. Más concretamente en realizar un estudio de análisis espectral y extracción de características en señales de un audio musical y obtener características básicas y alguna más compleja.
 
