@@ -11,5 +11,5 @@ En el presente proyecto se pretende el análisis de señales de audio en música
 
 ## Estado del proyecto
 
-Actualmente el proyecto ya llegado a su fin.
+Actualmente el proyecto ha llegado a su fin.
 
